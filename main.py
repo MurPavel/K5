@@ -26,7 +26,7 @@ def K5_w3tuEw():
 
 @app.route('/K5-Yka8qg')
 def K5_Yka8qg():
-    return render_template('index.html', kod='K5-Yka8qg', n='5', name='Никита')
+    return render_template('index.html', kod='K5-Yka8qg', n='5', name='Анастасия')
 
 
 @app.route('/')
