@@ -29,6 +29,11 @@ def K5_Yka8qg():
     return render_template('index.html', kod='K5-Yka8qg', n='5', name='Анастасия')
 
 
+@app.route('/cЯСЮaЧ6чЙыЗАjТbС8ABшРФШЕxЖпюСх')
+def res1():
+    return "Первый пункт: https://t.me/+RmPHGfIuc7x_4yDz"
+
+
 @app.route('/')
 @app.route('/index')
 def index():
