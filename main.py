@@ -33,6 +33,10 @@ def K5_Yka8qg():
 def res1():
     return "Первый пункт: https://t.me/+RmPHGfIuc7x_4yDz"
 
+@app.route('/apologies')
+def res2():
+    return "5 людей - 5 проблем; нет первой - 5 удач"
+
 
 @app.route('/')
 @app.route('/index')
