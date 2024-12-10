@@ -31,7 +31,7 @@ def K5_Yka8qg():
 
 @app.route('/K5-Tts4qw')
 def K5_Tts4qw():
-    return render_template('index.html', kod='K5-Tts4qw', n='5', name='Андрей')
+    return render_template('index.html', kod='K5-Tts4qw', n='6', name='Андрей')
 
 
 @app.route('/fate')
