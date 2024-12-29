@@ -35,7 +35,7 @@ def K5_Tts4qw():
 
 
 @app.route('/K5-C26uws')
-def K5_Tts4qw():
+def K5_C26uws():
     return render_template('index.html', kod='K5-C26uws', n='7', name='Саша')
 
 
